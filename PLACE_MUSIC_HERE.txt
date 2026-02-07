@@ -1,0 +1,13 @@
+🎵 PUT YOUR aria_math.mp3 FILE HERE! 🎵
+
+Instructions:
+1. Download Aria Math from YouTube or Archive.org
+2. Save it as "aria_math.mp3"
+3. Place it in this folder (rose-day-website/)
+4. Delete this placeholder file
+5. Deploy to Vercel!
+
+Quick download command:
+wget https://archive.org/download/MinecraftVolumeBeta/Minecraft%20-%20Volume%20Beta%20-%2010%20Aria%20Math.mp3 -O aria_math.mp3
+
+The file should be in the same folder as index.html!
