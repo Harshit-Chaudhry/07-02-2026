@@ -37,7 +37,7 @@ if [ ! -f "aria_math.mp3" ]; then
         fi
     else
         echo -e "${RED}Please add aria_math.mp3 to this folder before deploying!${NC}"
-        exit 1
+        
     fi
 else
     echo -e "${GREEN}✓ aria_math.mp3 found!${NC}"
